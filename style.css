@@ -1,0 +1,50 @@
+
+body{
+    background-color:lightgrey;
+    margin: 0;
+    padding: 40px 15px;
+    font-family: 'Times New Roman', Times, serif;
+
+}
+.border{
+    box-sizing: border-box;
+    border-radius: 3%;
+    background-color: white;
+    max-width: 1370px;
+    width: 1110px;
+    margin: 40px;
+    padding: 20px 45px 90px;
+}
+
+
+.intro{
+    text-align: center;
+}
+
+.img{
+    width: 100%;
+    border-radius: 10%;
+    height: 70px;
+    object-fit:cover;
+    object-position: center;
+    display:block;
+    margin: 0 auto;
+}
+h1 {
+    font: size 150px;
+    font-weight: bolder;
+    line-height: 1.08;
+    letter-spacing:-1.5px;
+    text-align: center;
+    margin-bottom: 25px 0;
+
+
+}
+.author{
+    font-size: 20px;
+    font-weight: bold;
+    text-align: center;
+    margin-bottom: 25px 0;
+    padding: 10px;
+
+}
